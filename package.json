@@ -92,7 +92,7 @@
     "lightning-scatter-streaming": "0.0.9",
     "lightning-vega-lite": "0.0.8",
     "lightning-volume": "0.0.7",
-    "lodash": "^3.8.0",
+    "lodash": "^4.17.20",
     "marked": "~0.3.2",
     "method-override": "^2.1.1",
     "moment": "~2.6.0",
